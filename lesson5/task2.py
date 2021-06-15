@@ -20,3 +20,4 @@ for string in lines:
     i += 1
 
 file.close()
+
